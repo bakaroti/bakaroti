@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
-  <title>Kurniawan Satria — Backend Developer</title>
+  <title>bakaroti — Developer</title>
   <style>
     .name { animation: nameIn 0.9s ease-out both; }
     .underline { animation: underlineDraw 0.9s ease-out 0.3s both; transform-origin: left center; }

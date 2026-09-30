@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1510" viewBox="0 0 800 1510" role="img" aria-label="Kurniawan Satria profile">>
-  <title>Kurniawan Satria — Backend Developer</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1510" viewBox="0 0 800 1510" role="img" aria-label="bakaroti profile">>
+  <title>bakaroti — Developer</title>
   <style>
       .hd-name { animation: hd-nameIn 0.9s ease-out both; }
       .hd-underline { animation: hd-underlineDraw 0.9s ease-out 0.3s both; transform-origin: left center; }
@@ -147,7 +147,7 @@
     </style>
   <rect width="800" height="1510" fill="#1a0524"/>
   <svg x="0" y="0" width="800" height="300" viewBox="0 0 800 300">
-  <title>Kurniawan Satria — Backend Developer</title>
+  <title>bakaroti — Developer</title>
   
   <rect width="800" height="320" fill="#1a0524"/>
   <g class="hd-corner" opacity="0.6">
@@ -173,7 +173,7 @@
   <rect width="800" height="320" fill="#1a0524"/>
   <rect x="32" y="32" width="3" height="256" fill="#ffffff" rx="1.5" class="ab-accentbar"/>
 
-  <text class="ab-heading" x="56" y="86" fill="#ffffff" font-family='"Inter", system-ui, sans-serif' font-size="32" font-weight="700">Hi, I&apos;m Kurniawan Satria.</text>
+  <text class="ab-heading" x="56" y="86" fill="#ffffff" font-family='"Inter", system-ui, sans-serif' font-size="32" font-weight="700">Hi, I&apos;m bakaroti.</text>
 
   <text class="ab-bio" x="56" y="136" fill="#bfa3d6" font-family='"Inter", system-ui, sans-serif' font-size="15" font-weight="400">
     <tspan x="56" dy="0">an <tspan font-weight="700">Informatics Engineering student</tspan> at <tspan font-weight="700">Islamic University of Riau</tspan></tspan>
@@ -187,7 +187,7 @@
   <g transform="translate(56 270)">
     <g class="ab-pill ab-p0">
       <rect width="134" height="20.13" rx="10.065" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.4"/>
-      <text x="67" y="10.065" fill="#ffffff" font-size="11" font-family="ui-monospace, monospace" text-anchor="middle" dominant-baseline="middle">Backend Developer</text>
+      <text x="67" y="10.065" fill="#ffffff" font-size="11" font-family="ui-monospace, monospace" text-anchor="middle" dominant-baseline="middle">Developer</text>
     </g>
   </g>
 
@@ -411,7 +411,7 @@
           <path d="M9 18c-4.51 2-5-2-7-2"/>
         </svg>
       </g>
-      <text x="20" y="0" fill="#bfa3d6" font-family="ui-monospace, monospace" font-size="12" dominant-baseline="middle">github.com/KurniawanSatria</text>
+      <text x="20" y="0" fill="#bfa3d6" font-family="ui-monospace, monospace" font-size="12" dominant-baseline="middle">github.com/bakaroti</text>
     </g>
   </g>
 
